@@ -6,7 +6,7 @@ $ npm install slietar/tsconfig
 
 ```json
 {
-  "extends": "@sliear/tsconfig/tsconfig.json",
+  "extends": "@slietar/tsconfig/tsconfig.json",
   "compilerOptions": {
     "module": "es2020",
     "moduleResolution": "node",
